@@ -26,6 +26,10 @@ We provide a collection of projects designed to solve common challenges and acce
 * **🔧 Reusable Tools & Utilities** - Scripts, components, and libraries to simplify your development and deployment processes
 * **📘 Best Practices & Architectural Patterns** - Reference architectures and guides to help you build scalable and secure solutions on the AppExchange
 
+## ⚠️ Important Notice
+
+**This code is made available for reference only and should not be used in production.** The repositories in this organization are provided as educational resources. They are not intended for production use.
+
 ## 🚀 Featured Repositories
 
 Here are some great places to get started:
@@ -65,6 +69,10 @@ We welcome contributions from the community! Here's how you can get involved:
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
 
 ## 📚 Additional Resources
 
