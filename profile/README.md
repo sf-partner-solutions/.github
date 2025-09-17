@@ -34,16 +34,14 @@ We provide a collection of projects designed to solve common challenges and acce
 
 Here are some great places to get started:
 
-> **Note:** As you create repositories, you can link to your most important ones here.
+* ### [sf-isv-cursor-rules](https://github.com/sf-partner-solutions/sf-isv-cursor-rules)
+    > A collection of Cursor AI rules tailored for Salesforce ISV partners to accelerate and enhance platform development.
 
-* ### [project-name-1](https://github.com/sf-partner-solutions/project-name-1)
-    > A brief, one-sentence description of what this project does and who it's for.
+* ### [agentvibe-motivation](https://github.com/sf-partner-solutions/agentvibe-motivation)
+    > Vibe coding a salesforce application without touching a keyboard
 
-* ### [project-name-2](https://github.com/sf-partner-solutions/project-name-2)
-    > A brief, one-sentence description of what this project does and who it's for.
-
-* ### [project-name-3](https://github.com/sf-partner-solutions/project-name-3)
-    > A brief, one-sentence description of what this project does and who it's for.
+* ### [jwt-bearer-bridge](https://github.com/sf-partner-solutions/jwt-bearer-bridge)
+    > Web application designed to simplify testing and debugging the Salesforce OAuth 2.0 JWT Bearer Flow.
 
 ## 🛠️ Quick Start
 
