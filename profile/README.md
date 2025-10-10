@@ -34,6 +34,9 @@ We provide a collection of projects designed to solve common challenges and acce
 
 Here are some great places to get started:
 
+* ### [hrm-service-api](https://github.com/sf-partner-solutions/hrm-service-api) & [hrm-agent-integration](https://github.com/sf-partner-solutions/hrm-agent-integration)
+    > An Agentforce HR sample application using Agentforce, Heroku, Mulesoft, and Slack.
+
 * ### [sf-isv-cursor-rules](https://github.com/sf-partner-solutions/sf-isv-cursor-rules)
     > A collection of Cursor AI rules tailored for Salesforce ISV partners to accelerate and enhance platform development.
 
