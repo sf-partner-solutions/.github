@@ -1,11 +1,10 @@
 # Welcome to Salesforce Partner Solutions
 
-
 ### Open-Source Tools, Accelerators, and Best Practices for Salesforce ISV Partners
 
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](#-contributing)
-[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)](https://developer.salesforce.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@AIspeaksAI)
+[Contributions Welcome](#-contributing)
+[Salesforce](https://developer.salesforce.com/)
+[YouTube](https://www.youtube.com/@AgenticPlatformers)
 
 ---
 
@@ -15,16 +14,16 @@ Welcome to the official open-source home for **Salesforce Partner Solutions**! O
 
 The repositories here are built and maintained by a team of Salesforce Solution Engineers, Forward Deployed Engineers, and Developer Advocates dedicated to your success in the Salesforce ecosystem.
 
-> 🎥 **Stay Updated with ISV-Focused Content!** Visit and subscribe to [AIspeaksAI YouTube channel](https://www.youtube.com/@AIspeaksAI) for exclusive Agentforce content tailored specifically for ISV partners. Get the latest insights, tutorials, and best practices to accelerate your Salesforce development journey.
+> 🎥 **Stay Updated with ISV-Focused Content!** Visit and subscribe to [AgenticPlatformers YouTube channel](https://www.youtube.com/@AgenticPlatformers) for exclusive Agentforce content tailored specifically for ISV partners. Get the latest insights, tutorials, and best practices to accelerate your Salesforce development journey.
 
 ## 🔎 What You'll Find Here
 
 We provide a collection of projects designed to solve common challenges and accelerate your development lifecycle. Our repositories include:
 
-* **🚀 Project Accelerators & Boilerplates** - Get a head start on your next project with pre-built templates for common application types
-* **🧩 Code Samples & Examples** - Practical, real-world examples demonstrating how to implement specific platform features and integrations
-* **🔧 Reusable Tools & Utilities** - Scripts, components, and libraries to simplify your development and deployment processes
-* **📘 Best Practices & Architectural Patterns** - Reference architectures and guides to help you build scalable and secure solutions on the AppExchange
+- **🚀 Project Accelerators & Boilerplates** - Get a head start on your next project with pre-built templates for common application types
+- **🧩 Code Samples & Examples** - Practical, real-world examples demonstrating how to implement specific platform features and integrations
+- **🔧 Reusable Tools & Utilities** - Scripts, components, and libraries to simplify your development and deployment processes
+- **📘 Best Practices & Architectural Patterns** - Reference architectures and guides to help you build scalable and secure solutions on the AppExchange
 
 ## ⚠️ Important Notice
 
@@ -34,17 +33,14 @@ We provide a collection of projects designed to solve common challenges and acce
 
 Here are some great places to get started:
 
-* ### [hrm-service-api](https://github.com/sf-partner-solutions/hrm-service-api) & [hrm-agent-integration](https://github.com/sf-partner-solutions/hrm-agent-integration)
-    > An Agentforce HR sample application using Agentforce, Heroku, Mulesoft, and Slack.
-
-* ### [sf-isv-cursor-rules](https://github.com/sf-partner-solutions/sf-isv-cursor-rules)
-    > A collection of Cursor AI rules tailored for Salesforce ISV partners to accelerate and enhance platform development.
-
-* ### [agentvibe-motivation](https://github.com/sf-partner-solutions/agentvibe-motivation)
-    > Vibe coding a salesforce application without touching a keyboard
-
-* ### [jwt-bearer-bridge](https://github.com/sf-partner-solutions/jwt-bearer-bridge)
-    > Web application designed to simplify testing and debugging the Salesforce OAuth 2.0 JWT Bearer Flow.
+- ### [hrm-service-api](https://github.com/sf-partner-solutions/hrm-service-api) & [hrm-agent-integration](https://github.com/sf-partner-solutions/hrm-agent-integration)
+  > An Agentforce HR sample application using Agentforce, Heroku, Mulesoft, and Slack.
+- ### [sf-isv-cursor-rules](https://github.com/sf-partner-solutions/sf-isv-cursor-rules)
+  > A collection of Cursor AI rules tailored for Salesforce ISV partners to accelerate and enhance platform development.
+- ### [agentvibe-motivation](https://github.com/sf-partner-solutions/agentvibe-motivation)
+  > Vibe coding a salesforce application without touching a keyboard
+- ### [jwt-bearer-bridge](https://github.com/sf-partner-solutions/jwt-bearer-bridge)
+  > Web application designed to simplify testing and debugging the Salesforce OAuth 2.0 JWT Bearer Flow.
 
 ## 🛠️ Quick Start
 
@@ -57,11 +53,10 @@ Here are some great places to get started:
 
 We welcome contributions from the community! Here's how you can get involved:
 
-* **🐛 Report bugs** by opening an issue in the relevant repository
-* **💡 Suggest enhancements** through our issue trackers
-* **📝 Improve documentation** to help other developers
-* **🔧 Submit code changes** via pull requests
-
+- **🐛 Report bugs** by opening an issue in the relevant repository
+- **💡 Suggest enhancements** through our issue trackers
+- **📝 Improve documentation** to help other developers
+- **🔧 Submit code changes** via pull requests
 
 ### Development Workflow
 
@@ -77,27 +72,21 @@ This project is licensed under the MIT License - see the [LICENSE](../LICENSE) f
 
 ## 📚 Additional Resources
 
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://partnerblazer.splashthat.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AIspeaksAI)
+[Slack](https://partnerblazer.splashthat.com/)
+[YouTube](https://www.youtube.com/@AgenticPlatformers)
 
-* **[Agentforce](https://www.salesforce.com/agentforce/)** - Build autonomous AI agents that work alongside your team
-* **[AIspeaksAI YouTube Channel](https://www.youtube.com/@AIspeaksAI)** - Stay updated with ISV-focused content and exclusive Agentforce tutorials
-* **[Partnerblazer Slack Channel](https://partnerblazer.splashthat.com/)** - Join our dedicated #developers channel for real-time support and collaboration
-* **[Salesforce AppExchange](https://appexchange.salesforce.com/)** - The leading enterprise cloud marketplace
-* **[Salesforce Developers](https://developer.salesforce.com/)** - Official documentation, tools, and learning resources
-* **[Salesforce Partner Community](https://partners.salesforce.com/)** - Connect with experts and get answers
-* **[Salesforce Partner Program](https://partners.salesforce.com/)** - Join the official partner program
-* **[Trailhead](https://trailhead.salesforce.com/)** - Learn the skills you need to build on Salesforce
-
-
+- **[Agentforce](https://www.salesforce.com/agentforce/)** - Build autonomous AI agents that work alongside your team
+- **[AgenticPlatformers YouTube Channel](https://www.youtube.com/@AgenticPlatformers)** - Stay updated with ISV-focused content and exclusive Agentforce tutorials
+- **[Partnerblazer Slack Channel](https://partnerblazer.splashthat.com/)** - Join our dedicated #developers channel for real-time support and collaboration
+- **[Salesforce AppExchange](https://appexchange.salesforce.com/)** - The leading enterprise cloud marketplace
+- **[Salesforce Developers](https://developer.salesforce.com/)** - Official documentation, tools, and learning resources
+- **[Salesforce Partner Community](https://partners.salesforce.com/)** - Connect with experts and get answers
+- **[Salesforce Partner Program](https://partners.salesforce.com/)** - Join the official partner program
+- **[Trailhead](https://trailhead.salesforce.com/)** - Learn the skills you need to build on Salesforce
 
 ---
 
-<div align="center">
-
 **Made with ❤️ by the Salesforce Partner Solutions Team**
 
-[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://developer.salesforce.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sf-partner-solutions)
-
-</div>
+[Salesforce](https://developer.salesforce.com/)
+[GitHub](https://github.com/sf-partner-solutions)
