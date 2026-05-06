@@ -33,10 +33,10 @@ We provide a collection of projects designed to solve common challenges and acce
 
 Here are some great places to get started:
 
+- ### [dreamhouse-psl](https://github.com/sf-partner-solutions/dreamhouse-psl)
+  > A reference implementation of the Dreamhouse sample app as a Managed 2GP that uses Permission Set Licenses (PSLs) and Custom Permissions to gate tiered features (Starter, Premium, Manage Properties) across Apex, LWC, and Flow.
 - ### [hrm-service-api](https://github.com/sf-partner-solutions/hrm-service-api) & [hrm-agent-integration](https://github.com/sf-partner-solutions/hrm-agent-integration)
   > An Agentforce HR sample application using Agentforce, Heroku, Mulesoft, and Slack.
-- ### [sf-isv-cursor-rules](https://github.com/sf-partner-solutions/sf-isv-cursor-rules)
-  > A collection of Cursor AI rules tailored for Salesforce ISV partners to accelerate and enhance platform development.
 - ### [agentvibe-motivation](https://github.com/sf-partner-solutions/agentvibe-motivation)
   > Vibe coding a salesforce application without touching a keyboard
 - ### [jwt-bearer-bridge](https://github.com/sf-partner-solutions/jwt-bearer-bridge)
